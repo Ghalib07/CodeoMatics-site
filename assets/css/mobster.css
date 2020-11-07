@@ -2230,7 +2230,7 @@ hr {
 
 .mobile-preview {
   width: 100%;
-  max-width: 233px;
+  max-width: 400px;
   height: auto;
   border-radius: 30px;
 }
